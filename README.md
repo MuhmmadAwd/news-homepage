@@ -4,7 +4,7 @@ news homepage will be an excellent opportunity to practice your CSS Grid skills.
 
 <div align="center">
   <h3>
-    <a href="https://cool-froyo-4acb8c.netlify.app/">
+    <a href="https://muhmmadawd.github.io/news-homepage/">
       Live Demo
     </a>
   </h3>
